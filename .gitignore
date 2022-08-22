@@ -1,0 +1,9 @@
+node_modules
+build
+contracts/attacker-contracts/*.sol
+.vscode
+artifacts
+cache
+lib/*
+logs/*
+out/*
